@@ -1,0 +1,2 @@
+# Verify-
+Assets permission 
